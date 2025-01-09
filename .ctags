@@ -1,0 +1,14 @@
+--exclude=.git
+--exclude=snap
+--exclude=.vscode
+--exclude=.config
+--exclude=riscv-gnu-toolchain
+--exclude=*.min.js
+--exclude=*.bundle.js
+--exclude=node_modules
+--exclude=.xwechat/radium/xworker/liteapp/local/packages/wxalitebaselibraryxwebpreview/main/4/dist/starter.js
+--exclude=.xwechat/radium/xworker/liteapp/local/packages/wxalitebaselibraryxwebpreview/main/9/dist/starter.js
+--exclude=*.log
+--exclude=*.tmp
+
+
